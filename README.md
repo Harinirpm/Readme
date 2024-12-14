@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Harini Murali<br>Pursuing B.Tech Degree Pre final Year<br>Artificial Intelligence and Data Science Student<br>Personal Interest in Web Develoment
+I'm Harini Murali<br>Pursuing B.Tech Degree <br>Artificial Intelligence and Data Science Student<br>Personal Interest in Web Develoment, Problem Solving
 
 
 ## 🌐 Socials:
